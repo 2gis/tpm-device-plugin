@@ -1,0 +1,8 @@
+name: tpm-device-plugin
+
+image:
+  repository: ''
+  tag: ''
+  pullPolicy: IfNotPresent
+
+domain: 2gis.com
